@@ -8,5 +8,11 @@ Images PATH:
 Images URL:
   https://github.com/senavs/deploy-static-website-on-aws/tree/master/images
 
+Submission document PATH:
+  ./submission/submission.pdf
+
+Submission document URL:
+https://github.com/senavs/deploy-static-website-on-aws/tree/master/submission/submission.pdf
+
 Github URL:
   https://github.com/senavs/deploy-static-website-on-aws
